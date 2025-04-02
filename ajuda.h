@@ -6,7 +6,7 @@
 void exibirAjuda()
 {
     setlocale(LC_ALL, "Portuguese");
-    printf("\n\t\t\t***                             FUNCOES DO EDITOR                         ***");
+    printf("\n\t\t\t***                             FUNCOEeeees DO EDITOR                         ***");
     printf("\n\t\t\t+---------------------------------------------------------------------------+");
     printf("\n\t\t\t| F1          - Exibe este texto de ajuda                                   |");
     printf("\n\t\t\t| F2          - Salvar o arquivo atual                                      |");
